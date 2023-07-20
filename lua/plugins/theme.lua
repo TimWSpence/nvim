@@ -1,0 +1,1 @@
+return {"catppuccin/nvim", name = "catppuccin", transparent_background = true}

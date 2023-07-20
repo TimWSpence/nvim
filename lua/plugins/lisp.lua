@@ -1,0 +1,2 @@
+local fts = {"clojure", "racket", "fennel"}
+return {{"Olical/conjure", ft = fts}, {"radenling/vim-dispatch-neovim", dependencies = {"tpope/vim-dispatch"}, ft = fts}, {"clojure-vim/vim-jack-in", ft = {"clojure"}, dependencies = {"tpope/vim-dispatch"}}, {"radenling/vim-dispatch-neovim", ft = fts}, {"guns/vim-sexp", ft = fts}, {"tpope/vim-sexp-mappings-for-regular-people", ft = fts}}
